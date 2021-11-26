@@ -1,16 +1,16 @@
 # Fdb version 3
-["bibtex 1"] 1637895352 "1.aux" "1.bbl" "1" 1637895354
+["bibtex 1"] 1637897413 "1.aux" "1.bbl" "1" 1637927112
   "/usr/local/texlive/2021/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "1.aux" 1637895353 2909 471d6acc2d0d94debb890010d360cd2c "xelatex"
+  "1.aux" 1637927111 2909 78a6f12fc06e39bf79d2230941e4b951 "xelatex"
   "math.bib" 1637895328 113 4b6ebcb6f49493e2231d83379f98cbf4 ""
   (generated)
   "1.blg"
   "1.bbl"
-["xdvipdfmx"] 1637895354 "1.xdv" "1.pdf" "1" 1637895354
-  "1.xdv" 1637895353 272180 d80a9ebf22b51c41c67dc3c3537dcef2 "xelatex"
+["xdvipdfmx"] 1637927112 "1.xdv" "1.pdf" "1" 1637927112
+  "1.xdv" 1637927111 306380 f7038bff27d91fb499a3c6559a0bfa22 "xelatex"
   (generated)
   "1.pdf"
-["xelatex"] 1637895352 "1.tex" "1.xdv" "1" 1637895354
+["xelatex"] 1637927110 "1.tex" "1.xdv" "1" 1637927112
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -244,17 +244,17 @@
   "/usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf" 1621028613 40042 fe981136cbb5f3715ab1b0e46e3d3892 ""
   "/usr/local/texlive/2021/texmf-var/web2c/xetex/xelatex.fmt" 1621580946 5110386 f7462ad895dfa007726026becaa7c732 ""
   "/usr/local/texlive/2021/texmf.cnf" 1621578929 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "1.aux" 1637895353 2909 471d6acc2d0d94debb890010d360cd2c "xelatex"
-  "1.bbl" 1637895352 155 1fd96128176a35484774c99f5ef019dd "bibtex 1"
-  "1.nav" 1637895353 1271 9547c353b61d740ad5a6ad0534f79cdb "xelatex"
-  "1.out" 1637895353 198 1470e1da44509344828a0d8bbe2d2dde "xelatex"
-  "1.tex" 1637895349 3520 6e5f62765187ae4b5e66006fd9b92343 ""
-  "1.toc" 1637895353 114 f1ee81308b82bb1774c6211ea5c3aad9 "xelatex"
+  "1.aux" 1637927111 2909 78a6f12fc06e39bf79d2230941e4b951 "xelatex"
+  "1.bbl" 1637897413 155 1fd96128176a35484774c99f5ef019dd "bibtex 1"
+  "1.nav" 1637927111 1271 d9246f0b2e7d5261e6b2399d294845ae "xelatex"
+  "1.out" 1637927111 198 1470e1da44509344828a0d8bbe2d2dde "xelatex"
+  "1.tex" 1637927110 3739 955bd5a076019f3a4abf95b0d5a87db0 ""
+  "1.toc" 1637927111 114 b8e2a20b3ff03887bde1292ae6b65c1f "xelatex"
   (generated)
   "1.xdv"
-  "1.nav"
-  "1.out"
   "1.aux"
-  "1.toc"
+  "1.out"
   "1.log"
+  "1.nav"
   "1.snm"
+  "1.toc"

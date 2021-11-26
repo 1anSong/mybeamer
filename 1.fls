@@ -1579,6 +1579,9 @@ OUTPUT 1.xdv
 INPUT ./1.toc
 INPUT 1.toc
 INPUT 1.toc
+INPUT ./1.toc
+INPUT 1.toc
+INPUT 1.toc
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
