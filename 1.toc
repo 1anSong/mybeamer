@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{勾股定理在古代}{3}{0}{1}
+\beamer@sectionintoc {2}{勾股定理在现代}{6}{0}{2}
